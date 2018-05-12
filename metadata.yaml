@@ -1,0 +1,45 @@
+_repo: Little-Ann-and-Other-Poems_42947
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Greenaway, Kate
+    alias: Greenaway, K. (Kate)
+    birthdate: 1846
+    deathdate: 1901
+    gutenberg_agent_id: '6307'
+    url: http://www.gutenberg.org/2009/agents/6307
+    wikipedia: http://en.wikipedia.org/wiki/Kate_Greenaway
+covers:
+- cover_type: archival
+  image_path: 42947-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Taylor, Jane
+    birthdate: 1783
+    deathdate: 1824
+    gutenberg_agent_id: '41941'
+    url: http://www.gutenberg.org/2009/agents/41941
+  - agent_name: Taylor, Ann
+    aliases:
+    - Gilbert, Ann Taylor
+    - Taylor, Anna
+    - Gilbert, Ann
+    birthdate: 1782
+    deathdate: 1866
+    gutenberg_agent_id: '41942'
+    url: http://www.gutenberg.org/2009/agents/41942
+description: Nineteenth century poems about children for children which reflect the
+  manners and mores of their day.
+gutenberg_issued: '2013-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42947'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s poetry'
+title: Little Ann, and Other Poems
+url: http://www.gutenberg.org/ebooks/42947
