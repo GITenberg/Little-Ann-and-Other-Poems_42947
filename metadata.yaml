@@ -30,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41942
 description: Nineteenth century poems about children for children which reflect the
   manners and mores of their day.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42947#Little-Ann-and-Other-Poems
 gutenberg_issued: '2013-06-15'
 gutenberg_type: Text
 identifiers:
